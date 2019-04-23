@@ -1,0 +1,2 @@
+print("Have you got money?");
+print("How much money have you got?");
