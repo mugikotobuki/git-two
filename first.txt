@@ -1,1 +1,1 @@
-print("It is first message");
+print("It is first message. Need continue");
