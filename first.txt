@@ -1,3 +1,4 @@
 print("It is first message. Need continue");
 print("Message noe. Because we have two branche.
 It is master");
+print("message for anderstand conflict");
